@@ -37,6 +37,7 @@ markdown_extensions:
   - attr_list
 plugins:
   - search
+  - mkdocs-video
 social:
     - icon: fontawesome/brands/facebook 
       link: www.facebook.com/peterboroughchessclub/?locale=en_GB 
@@ -45,4 +46,5 @@ nav:
     - Competions: competions.md
     - History: history.md
     - Tutorial: tutorials.md
+    - Game of the week: GameOfTheWeek.md
     - Links: links.md
