@@ -37,9 +37,6 @@ markdown_extensions:
   - attr_list
 plugins:
   - search
-social:
-    - icon: fontawesome/brands/facebook 
-      link: www.facebook.com/peterboroughchessclub/?locale=en_GB 
 nav:
     - Introduction: index.md
     - Competions: competitions.md
