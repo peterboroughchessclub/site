@@ -42,7 +42,7 @@ social:
       link: www.facebook.com/peterboroughchessclub/?locale=en_GB 
 nav:
     - Introduction: index.md
-    - Competions: competions.md
+    - Competions: competitions.md
     - History: history.md
     - Tutorial: tutorials.md
     - Game of the week: GameOfTheWeek.md
