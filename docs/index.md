@@ -16,7 +16,7 @@ To join the Peterborough Chess Club, you will need to become a member of the Pet
 ## Tuition:
 - Tuition available for beginners and intermediate players
 - Please, check [ECF Child Protection Policy Statement](https://www.englishchess.org.uk/safeguarding-children-policy/) before joining.
-- More details [here](tuition.md)
+- More details [here](tuitions.md)
 
 
 
