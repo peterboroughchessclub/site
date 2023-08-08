@@ -31,7 +31,7 @@ theme:
       logo: logo 
 
     features:
-      - announce.dismiss
+      # - announce.dismiss
       - content.action.edit
       - content.action.view
       - content.code.annotate
@@ -92,7 +92,7 @@ extra:
       link: https://twitter.com/peterboroughchessclub
 nav:
     - Introduction: index.md
-    - Competions: competitions.md
+    - Competitions: competitions.md
     - History: history.md
     - Tutorial: tutorials.md
     - Submit pgn: submitpgn.md

@@ -7,6 +7,10 @@ These skills could include:
 - Website design
 - AI and data science
 
+
+## Some ideas... 
+
+
 ### Data science
 
 1. Develop a network diagram of all games played within the club.

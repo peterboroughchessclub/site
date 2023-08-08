@@ -2,15 +2,25 @@
 
 <!-- ![Logo](img%5Cqueen_inside_peterb_cath.jpg) -->
 
-The Peterborough Chess Club was [founded in 1893](history.md) and has a long history of fostering chess talent in Peterborough and surrounding areas. We provide a platform for chess players of all levels to come together and enjoy the game. There are many opportunities to participate in competitive games, we hold regular competitions within the club and between other clubs across Cambridgeshire.
+The Peterborough Chess Club was [founded in 1893](history.md) and has a long history of fostering chess talent in Peterborough and surrounding areas. We provide a platform for chess players of all levels to come together and enjoy the game.  [Tuition](tutorials.md) is available and there are many opportunities to participate in competitive games.
 
-## Thinking of Joining?
+## Connect with us
 
-- Either: 
-    1. Turn up at the Conservative Club on either a Thursday or Sunday, and ring the doorbell. Ask for Jimmy, Marek, or Doug. 
-    1. Contact us and we will happy to help.
+Stay connected with us on social media for the latest updates and announcements. Follow us on:
 
-## Venue and Meeting Times
+<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/facebook.png" alt="Peterborough Chess Club | Facebook" width="42px"/></a>
+<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/whatsapp.png" alt="Peterborough Chess Club | WhatsApp" width="42px"/></a>
+<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/youtube.png" alt="Peterborough Chess Club | YouTube" width="42px"/></a>
+<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/telegram.png" alt="Peterborough Chess Club | Telegram" width="42px"/></a>
+<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/tiktok.png" alt="Peterborough Chess Club | TikTok" width="42px"/></a></br>
+
+
+
+## Thinking of joining?
+
+Turn up at the Conservative Club on either a Thursday or Sunday. Contact us and we will happy to help.
+
+## Venue and meeting times
 
 We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://www.google.com/maps/dir//Peterborough+Conservative+Club+77+Broadway+Peterborough+PE1+4DA/@52.5789573,-0.2387154,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877f0feb007c765:0xe16bbfc4b2403fcb!2m2!1d-0.2387154!2d52.5789573?entry=ttu). 
 
@@ -23,7 +33,7 @@ We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://ww
     - It sounds complicated. Just see the calendar below
 
 
-## Calendar of Events
+## Calendar of events
 
 <iframe src="https://calendar.google.com/calendar/embed?src=chessclubpeterborough%40gmail.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -44,25 +54,8 @@ To join the Peterborough Chess Club, you will need to become a member of the Pet
 
 ## Find us on Facbook
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpeterboroughchessclub%2F%3Flocale%3Den_GB&tabs=timeline&width=500&height=800&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpeterboroughchessclub%2F%3Flocale%3Den_GB&tabs=timeline&width=400&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="400" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
-## Tuition
-- Tuition available for beginners and intermediate players
-- Please, check [ECF Child Protection Policy Statement](https://www.englishchess.org.uk/safeguarding-children-policy/) before joining.
-- More details [here](tutorials.md)
-
-
-## Connect with Us
-
-Stay connected with us on social media for the latest updates and announcements. Follow us on:
-
-
-<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/facebook.png" alt="Peterborough Chess Club | Facebook" width="42px"/></a>
-<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/whatsapp.png" alt="Peterborough Chess Club | WhatsApp" width="42px"/></a>
-<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/youtube.png" alt="Peterborough Chess Club | YouTube" width="42px"/></a>
-<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/telegram.png" alt="Peterborough Chess Club | Telegram" width="42px"/></a>
-<a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/tiktok.png" alt="Peterborough Chess Club | TikTok" width="42px"/></a></br></br>
 
 
 
