@@ -6,7 +6,7 @@ The Peterborough Chess Club was [founded in 1893](history.md) and has a long his
 
 ## Connect with us
 
-Stay connected with us on social media for the latest updates and announcements. Follow us on:
+💬 [Send us a message](contactus.md) or stay connected with us on social media for the latest updates and announcements. Follow us on:
 
 <a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/facebook.png" alt="Peterborough Chess Club | Facebook" width="42px"/></a>
 <a href="https://www.facebook.com/peterboroughchessclub/?locale=en_GB"><img align="left" src="./img/whatsapp.png" alt="Peterborough Chess Club | WhatsApp" width="42px"/></a>
@@ -57,12 +57,3 @@ To join the Peterborough Chess Club, you will need to become a member of the Pet
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpeterboroughchessclub%2F%3Flocale%3Den_GB&tabs=timeline&width=400&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="400" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
-
-
-💬 If you have any question/feedback, please do not hesitate to reach out to us!
-
-!!! question "Contact details"
-    - **Club Secretary, Ben Rhodes**
-        - Tel: 07527 551650
-        - email: bjrhodes_98@yahoo.com
-    <!-- - **For website queries:** WebMaster@PeterboroughChessClub.org -->
