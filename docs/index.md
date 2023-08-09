@@ -18,7 +18,7 @@ The Peterborough Chess Club was [founded in 1893](history.md) and has a long his
 
 ## Thinking of joining?
 
-Turn up at the Conservative Club on either a Thursday or Sunday. Contact us and we will happy to help.
+ [Send us a message](contactus.md) and we will happy to help. Or simply turn up at the Conservative Club on either a Thursday or Sunday. 
 
 ## Venue and meeting times
 
