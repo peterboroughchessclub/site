@@ -55,7 +55,9 @@ theme:
       - search.suggest
       - toc.follow
       - toc.integrate
-   
+# Customization
+extra_css: [templates_overrides/extra.css]
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -92,6 +94,7 @@ extra:
       link: https://twitter.com/peterboroughchessclub
 nav:
     - Introduction: index.md
+    - Gallery: gallery.md
     - Competitions: competitions.md
     - History: history.md
     - Tutorial: tutorials.md
