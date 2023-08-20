@@ -39,8 +39,6 @@ We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://ww
 
 
 
-https://www.google.com/maps/uv?
-
 !!! info "When do we meet?"
     - Thursday: 6:30pm - 11:00pm
     - Exceptions: We do not meetup on the first Thursday of each month, instead we meet on the following Sunday at 6:00pm instead.
