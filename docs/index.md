@@ -39,8 +39,6 @@ We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://ww
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1s0x4877f0feb007c765%3A0xe16bbfc4b2403fcb!3m1!7e115!4s%2Fmaps%2Fplace%2Fgooglemaps%2Bpeterboroguh%2Bconservative%2Bclub%2F%4052.5788899%2C-0.2390164%2C3a%2C75y%2C56.18h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sl5YfsswC_ZIc0hTKduyWtw*212e0*214m2*213m1*211s0x4877f0feb007c765%3A0xe16bbfc4b2403fcb%3Fsa%3DX%26ved%3D2ahUKEwjLhavLt-uAAxU9lGoFHRh6Dc4Qpx96BAhFEAA!5sgoogle%20maps%20peterborough%20conservative%20club%20-%20Google%20Search!15sCgIgARICCAI&imagekey=!1e2!2sl5YfsswC_ZIc0hTKduyWtw&hl=en&sa=X&ved=2ahUKEwjLhavLt-uAAxU9lGoFHRh6Dc4Qpx96BAhcEA0" width="600" loading="lazy" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 https://www.google.com/maps/uv?
 
 !!! info "When do we meet?"
