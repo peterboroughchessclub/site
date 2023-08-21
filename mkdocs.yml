@@ -6,18 +6,21 @@ site_author: Doug Redden
 repo_name: peterboroughchessclub/peterboroughchessclub
 repo_url: https://github.com/peterboroughchessclub/site
 
+# Customization
+extra_css: [templates_overrides/extra.css]
+
 theme:
     name: material
     custom_dir: docs/templates_overrides    
     palette:
       - scheme: default
-        primary: indigo
+        primary: stylesheets/extra.css
         accent: indigo
         toggle:
           icon: material/brightness-7
           name: Switch to dark mode
       - scheme: slate
-        primary: indigo
+        primary: blue grey
         accent: indigo
         toggle:
           icon: material/brightness-4
@@ -28,7 +31,7 @@ theme:
       code: Roboto Mono
     favicon: assets/favicon.png
     icon:
-      logo: logo 
+      logo: material/chess-queen
 
     features:
       # - announce.dismiss
@@ -55,10 +58,12 @@ theme:
       - search.suggest
       - toc.follow
       - toc.integrate
-# Customization
-extra_css: [templates_overrides/extra.css]
+
 
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.tabbed:

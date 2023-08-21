@@ -8,7 +8,7 @@
 ## Silver Rook
 
 <figure markdown>
-  ![Image title](./img/20230810_214931.jpg){ loading=lazy  width="500" }
+  ![Image title](./img/20230810_214931_cropped.jpg){ loading=lazy  width="500" }
   <figcaption>Silver Rook Cup</figcaption>
 </figure>
 
