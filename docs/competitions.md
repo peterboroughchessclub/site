@@ -5,7 +5,7 @@
   <figcaption>Silver Queen Cup</figcaption>
 </figure>
 
-## Silver Rook
+## Cracknell Trophy
 
 <figure markdown>
   ![Image title](./img/20230810_214931_cropped.jpg){ loading=lazy  width="500" }

@@ -47,6 +47,7 @@ theme:
       - navigation.footer
       # - navigation.indexes
       - navigation.instant
+      - navigation.path
       # - navigation.prune
       - navigation.sections
       - navigation.tabs
@@ -105,5 +106,5 @@ nav:
     - Tutorial: tutorials.md
     - Submit pgn: submitpgn.md
     - Game of the week: GameOfTheWeek.md
-    - Software skills: websiteDevelopmentIdeas.md
+    # - Software skills: websiteDevelopmentIdeas.md
     - Contact us: contactus.md
