@@ -1,20 +1,21 @@
 ![Image title](./img/queenst2-then1.jpg){ align=right }
 Peterborough Chess Club was founded at The Bedford Coffee House on August 30th. 1893, by Mr S. Shrive, Mr. Henry Hare and Mr. Burlingham. Mr. T. Andrews of Lincoln Road was elected as the first President.
 
-![Image title](./img/img.jpeg){ width=300 align=right }
 The idea for a chess club was first mentioned Wednesday 10 May 1893.  "It is proposed to form a chess club for the city for the ensuing season. Gentlemen willing to join are invited to send their names to Mr. Hy. Hare, Narrow Street. "
 
 
 
-Wednesday 05 September 1894.  Peterborough Chess Club.—The annual meeting of the members of the Peterborough Chess Club was held at the "Bedford" on Monday evening, Mr. Symonds occupying the chair. The Secretary, in reading the report for the put season said that after paying all expenses, they had a balance in hand of lOs. 9d. Four matches had been played, three lost and one won. He also said that in presenting their first annual report, the committee congratulated the members on the fact of a chess club having been successfully started in Peterborough, as it had been the means of bringing together many chess players who previously had but little opportunity for practice. The following officers were elected.—President, Mr. Sharpe; Vice-president, Mr. Symonds; Hon. Sec., Mr. Hare ; Match Captain, Mr. Burlingham ; and the committee : Marrs. Mason, Shrive, Neal, Mitchinson, Mc Kerrow, F. Starton, and Perkins. The meeting closed with a vote of thanks to the Chairman.
-![Image title](./img/grandhotel1971.jpg)
+Wednesday 05 September 1894.  Peterborough Chess Club.—The annual meeting of the members of the Peterborough Chess Club was held at the "Bedford" on Monday evening, Mr. Symonds occupying the chair. ![Image title](./img/img.jpeg){ width=250 align=right } The Secretary, in reading the report for the put season said that after paying all expenses, they had a balance in hand of lOs. 9d. Four matches had been played, three lost and one won. He also said that in presenting their first annual report, the committee congratulated the members on the fact of a chess club having been successfully started in Peterborough, as it had been the means of bringing together many chess players who previously had but little opportunity for practice. 
+
+The following officers were elected.—President, Mr. Sharpe; Vice-president, Mr. Symonds; Hon. Sec., Mr. Hare ; Match Captain, Mr. Burlingham ; and the committee : Marrs. Mason, Shrive, Neal, Mitchinson, Mc Kerrow, F. Starton, and Perkins. The meeting closed with a vote of thanks to the Chairman.
+
+
+The chess club then moved to the Grand Hotel in the early 1900s 
+![Image title](./img/grandhotel1971.jpg ) {width=250 }
 
 
 ## Eminent chess players
 
-**Mr. E. B. Hussey**
-
-"It is more than a year ago since received a communication from the well-known Leeds player, Mr. E. B. Hussey. We are pleased therefore to find from the Peterborough Express the following account of his recent chess exploits, coupled with those of an older date in Leeds and Yorkshire: A well-deserved compliment has just been paid Mr. E. B. V. Hussey the Peterborough Chess Club. Mr. Hussey is probably the greatest expert of the game in the city, and he has been created honorary life member of the club in recognition, of his eminent services in many ways, and especially in raising the standard of play among the members. The honour was conferred with hearty unanimity on the proposition of Mr. Cholerton, seconded Mr. S. Shrive. Mr. Hussey was for some years honorary secretary of the Leeds and Yorkshire Chess Clubs, and on severing his connection with them received Staunton set of ivory chessmen as a memento of the members’ regard and appreciation. He has played in inter-county matches with nearly half the counties of the three kingdoms and in many other important contests. That Mr. Hussey’s skill at the great intellectual recreation has not abated is evident from the fact that during August Bank Holiday week accepted fifty-five challenges his dub, and won every game!"
 
 **Mr. Samuel Shrive**
 ![Image title](./img/MrSShrive.png){ align=left }

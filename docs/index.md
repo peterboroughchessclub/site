@@ -46,9 +46,9 @@ We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://ww
 
 
 !!! info "When do we meet?"
-    - Thursday: 6:30pm - 11:00pm
+    - Thursday: 6:30pm - 10:30pm
     - Exceptions: We do not meet on the first Thursday of each month, instead we meet on the following Sunday at 6:00pm.
-    - Please see the calendar below
+    - Please see the 'Thursday chess' and 'Sunday chess' events in the calendar below
 
 
 ## Calendar of events
@@ -75,6 +75,7 @@ Thinking of joining the club? Becoming a member is easy - simply turn up and com
 
     ² Junior membership is £5 / year
 
+Click link to view the [ECF Child Protection Policy Statement](https://www.englishchess.org.uk/safeguarding-children-policy/)
 
 ---
 
