@@ -30,6 +30,29 @@ Stay connected with us on Facebook for the latest updates and announcements.
 
 ---
 
+## Membership
+
+Thinking of joining the club? Becoming a member is easy - simply turn up and complete a membership form. Visitors are welcome to attend club meetings initially without membership to get a feel for the club and its activities.
+
+
+
+!!! info "Membership fees"
+
+    | **Membership**  | **Annual Cost** |
+    |-----------|------------------|
+    | Conservative Club |  £45 ³   |
+    | Peterborough Chess Club |  £10 ²   |
+    | [ECF](https://www.englishchess.org.uk/) (optional ¹) | £18  |
+
+    ¹ For game rating and club match participation, ECF Bronze level membership would be required at £18 per annum 
+
+    ² Under 18 Junior membership is £5 / year
+
+    ³ Under 18s cannot join the Conservative Club but a parent must join instead 
+
+
+---
+
 ## Venue and meeting times
 
 We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://www.google.com/maps/dir//Peterborough+Conservative+Club+77+Broadway+Peterborough+PE1+4DA/@52.5789573,-0.2387154,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877f0feb007c765:0xe16bbfc4b2403fcb!2m2!1d-0.2387154!2d52.5789573?entry=ttu). 
@@ -55,27 +78,11 @@ We meet at the [Conservative Club, 77 Broadway, Peterborough PE1 4DA](https://ww
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=Y2hlc3NjbHVicGV0ZXJib3JvdWdoQGdtYWlsLmNvbQ&src=MjJiNjZjNmM1ZWE2NDdmMGMyYTc5NDUxNWExMWM4YWNiODQzOTdiOGM4MjA2NTY4MzQ4NTkzZDE1ZTVhZmExYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ODZhZTZhOWE1ZmJiMzM4NDRmNDUzNzk4Y2Y2YTY2YWQwYzY3NzA0NWJmNzk3ZjcyZTcxZmFkNGE0OTM4ZGYyMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MDc3NTdjYTdjYzRmMDg1ZmZmY2NjZTgzYzExNDRkZmU3ODgzOTY3ZWMwOTFhYTc3OWI0Y2U3MjhkY2QxYzM4OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ODRjYWY3M2RhZjRmZGRkMTQ4YzkzY2Q2MWY5ODJmNDhhYzUwOWM3YTQyYzg0OTgxYWUzNGIwNGUyMWQ1MDc1ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzVlM2Y1ZWI4NTdmZTU4NTc3ZTJiZTI3NzQ4MjkxYmZkYTRkMzdhNmQzOTFiMWZjYzY1ZDA3ZjcyZGE2MDc0ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NjFjODEzNjI3NTNlMjk5YTljZGFmODgyYmQ4OWU4MWUzNzdjODk1NjcxZjIwY2RiODBjYjZmNTUyZjYzNWYwMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23E67C73&color=%23F6BF26&color=%23F4511E&color=%237CB342&color=%23009688&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
----
 
-## Membership
+--- 
+## Child Protection Policy
 
-Thinking of joining the club? Becoming a member is easy - simply turn up and complete a membership form. Visitors are welcome to attend club meetings initially without membership to get a feel for the club and its activities.
-
-
-
-!!! info "Membership fees"
-
-    | **Membership**  | **Annual Cost** |
-    |-----------|------------------|
-    | Conservative Club |  £45   |
-    | Peterborough Chess Club |  £10 ²   |
-    | [ECF](https://www.englishchess.org.uk/) (optional ¹) | £18  |
-
-    ¹ For game rating and club match participation, ECF Bronze level membership would be required at £18 per annum 
-
-    ² Junior membership is £5 / year
-
-Click link to view the [ECF Child Protection Policy Statement](https://www.englishchess.org.uk/safeguarding-children-policy/)
+We follow the ECF Child Protection Policy. Click link to view the [ECF Child Protection Policy Statement](https://www.englishchess.org.uk/safeguarding-children-policy/)
 
 ---
 

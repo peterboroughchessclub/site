@@ -9,13 +9,7 @@ Tuition is never obligatory but, as part of a general process of matching player
 In the season 2022-2023 these members are engaged in the tuition process:
 
 * James Conlon, mainly for beginners;
-* Dennis Browning, successful internal competition participant, who gives feedback analysis on club games especially at intermediate level
 
-    <iframe width=600 height=400 src="https://lichess.org/study/embed/AHat0M9V/DE26VxV8" frameborder=0></iframe>
-
-* Fred Davis, former league player, who also gives feedback analysis on games between advanced players
-
-    <iframe width=600 height=400 src="https://lichess.org/study/embed/AHat0M9V/KjKJRYEm" frameborder=0></iframe>
 
 In the chess world of the 2020s inevitably there will be mention of ratings. Tuition does not make rash promises of improving ratings. Ratings depend on playing no fewer than 30 rated games. Online such feats may be achieved by playing many rapid-play games. However rapid-play games are usually won by taking advantage of the blunders of opponents and success therein may not be a guide of general chess ability.
 
