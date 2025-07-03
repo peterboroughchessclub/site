@@ -101,6 +101,7 @@ extra:
 nav:
     - Introduction: index.md
     - Gallery: gallery.md
+    - Events: events.md
     - Competitions: competitions.md
     - History: history.md
     - Tuition: tutorials.md
