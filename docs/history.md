@@ -11,7 +11,7 @@ The following officers were elected.—President, Mr. Sharpe; Vice-president, Mr
 
 
 The chess club then moved to the Grand Hotel in the early 1900s 
-![Image title](./img/grandhotel1971.jpg ){width=250 }
+![Image title](./img/grandhotel1971.jpg )
 
 ![Winners of Northampton County Trophy Seanon 1923-24](./img/Photos_1922.jpg){ align=left }
 
