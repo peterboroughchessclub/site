@@ -63,8 +63,8 @@ theme:
 
 markdown_extensions:
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.tabbed:
@@ -77,6 +77,7 @@ markdown_extensions:
   - attr_list
 # Plugins
 plugins:
+  - macros
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   # - minify:
@@ -101,6 +102,7 @@ extra:
 nav:
     - Introduction: index.md
     - Gallery: gallery.md
+    - Latest News: news.md
     - Events: events.md
     - Competitions: competitions.md
     - History: history.md
