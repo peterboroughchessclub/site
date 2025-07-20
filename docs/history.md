@@ -36,5 +36,5 @@ THE CATHEDRAL. with regret that we record the passing Mr. William John Cracknell
 This cup was presented to the winner of the chess championship each year.  The knight is engraved with " Peterborough Chess Club". Presented by R.S.P ARRIS Esc. 1906 won by C. Peach. 1907 won by Collin. 1908 won by C.Peach. 1909 won by Dr. Smith. 1910 won by F.Mason. 1911 won by S. Shrive. 1912 won by A.C. Hawley. It was told that if you won the trophy 3 years in a row it was yours to keep. The last winner was Arthur Charles Hawley and he lived on Park Avenue in Peterborough.  The cup currently resides with Chris Hawley (Grandson of Arthur Charles Hawley) at his home in Colorado USA
 
 
-## Peterborugh Chess Club Advert in the Peterborough Standard
+## Peterborough Chess Club Advert in the Peterborough Standard
 Friday 19 November 1937.  CHESS A FREE OFFER. The Peterborough Chess Club will be opened free to lovers of chess every Tuesday; evening for the next. six months Visitors will be: made welcome and it is hoped many will come and enjoy a friendly game with the members. The chess room which has just been redecorated and is well furnished, is easily found by entering the first doorway on the right in the Minster Precincts.
