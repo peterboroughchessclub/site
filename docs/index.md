@@ -49,7 +49,7 @@ We meet at the [Broadway Club, 77 Broadway, Peterborough PE1 4DA](https://www.go
 
 ## Membership
 
-Thinking of joining the club? Becoming a member is easy - simply turn up and complete a membership form. Visitors are welcome to attend club meetings initially without membership to get a feel for the club and its activities.
+Visitors are welcome to attend club meetings initially without membership to get a feel for the club and its activities.
 
 
 
