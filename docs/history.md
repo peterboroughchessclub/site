@@ -29,7 +29,7 @@ BACK TO THE HOMELAND. After a time he decided to return to the Motherland for a 
 ### Mr. William John Cracknell
 THE CATHEDRAL. with regret that we record the passing Mr. William John Cracknell. of 5, Manor House-street, on Saturday, at the age of 66 years. Mr. Cracknell, who was the only brother of the late Mr. John Cracknell, the former Peterborough building contractor, had patiently borne an illness of low, came to live in Peterborough about thirty years ago, and for the past 21 years had made his home in Manor House - Street. Of a quiet and kindly disposition, he had a host of friends and was one of the best-known members of the Peterborough Church Institute, and the Chess Club. His favourite pastime was chess, at which he was a recognised exponent. His. other interests included the Peterborough Museum Society), and he did elocution contests at the Memorial Hall. One of his greatest friends was the late Mr. S. Shrive. who predeceased him by two years. The funeral took place on Wednesday- day, at Lakenheath, Suffolk, in which village Mr. Cracknell was born, his father had farmed there for many years. The service at the Baptist Chapel was conducted by the Rev. E. Cooper. the principal mourners were Mrs. John Cracknell (sister-in-law). Mr. and Mrs. W. R. Cracknell, Mr. . and Mrs. J.H Cracknell, Miss Kathleen Cracknell (nephews and nieces), Mr. Ray and Felix Bean (directors of John Cracknell, . Ltd.), Mrs. Gray and Mr. Gilbey. Laken- heath friends).
 
-## Old chess competitions
+## Chess competitions
 
 ![Silver Knight](./img/silverknight.jpg){ align=left }
 
