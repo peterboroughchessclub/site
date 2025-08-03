@@ -21,4 +21,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material mkdocs-pdf mkdocs-macros-plugin 
+      - run: cp CNAME site/      
       - run: mkdocs gh-deploy --force
