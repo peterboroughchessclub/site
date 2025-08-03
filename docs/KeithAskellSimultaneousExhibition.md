@@ -9,24 +9,24 @@
 
 ## Contents
 
-1. [Frederick Fairhurst - GM K. Arkell](#game-1) - **1-0**
-2. [Sudarsan Prabhagar - GM K. Arkell](#game-2) - **0-1**
-3. [Yugan Suganya - GM K. Arkell](#game-3) - **0-1**
-4. [Kavishwar Arunkumar - GM K. Arkell](#game-4) - **0-1**
-5. [Brendan Rooney - GM K. Arkell](#game-5) - **0-1**
-6. [Hubert Neumaier - GM K. Arkell](#game-6) - **0-1**
-7. [John Bell - GM K. Arkell](#game-7) - **0-1**
-8. [GM K. Arkell - Claude Masseron](#game-8) - **½-½**
-9. [GM K. Arkell - David McClennon](#game-9)
-10. [Nagarajun Gopinathan - GM K. Arkell](#game-10) - **0-1**
-11. [GM K. Arkell - Steve Fairhurst](#game-11) - **1-0**
-12. [Allan MacLeod - GM K. Arkell](#game-12) - **0-1**
-13. [Douglas Redden - GM K. Arkell](#game-13) - **0-1**
-14. [GM K. Arkell - Jimmy Blair](#game-14) - **1-0**
-15. [Andrew Neville - GM K. Arkell](#game-15) - **0-1**
-16. [GM K. Arkell - Leo Galea](#game-16) - **1-0**
-17. [GM K. Arkell - Marek Zajaczkowski](#game-17) - **1-0**
-18. [Alan Brookbanks - GM K. Arkell](#game-18) - **0-1**
+1. [**Frederick Fairhurst** - GM K. Arkell](#game-1) - **1-0**
+2. [**Sudarsan Prabhagar** - GM K. Arkell](#game-2) - **0-1**
+3. [**Yugan Suganya** - GM K. Arkell](#game-3) - **0-1**
+4. [**Kavishwar Arunkumar** - GM K. Arkell](#game-4) - **0-1**
+5. [**Brendan Rooney** - GM K. Arkell](#game-5) - **0-1**
+6. [**Hubert Neumaier** - GM K. Arkell](#game-6) - **0-1**
+7. [**John Bell** - GM K. Arkell](#game-7) - **0-1**
+8. [GM K. Arkell - **Claude Masseron**](#game-8) - **½-½**
+9. [GM K. Arkell - **David McClennon**](#game-9)
+10. [**Nagarajun Gopinathan** - GM K. Arkell](#game-10) - **0-1**
+11. [GM K. Arkell - **Steve Fairhurst**](#game-11) - **1-0**
+12. [**Allan MacLeod** - GM K. Arkell](#game-12) - **0-1**
+13. [**Douglas Redden** - GM K. Arkell](#game-13) - **0-1**
+14. [GM K. Arkell - **Jimmy Blair**](#game-14) - **1-0**
+15. [**Andrew Neville** - GM K. Arkell](#game-15) - **0-1**
+16. [GM K. Arkell - **Leo Galea**](#game-16) - **1-0**
+17. [GM K. Arkell - **Marek Zajaczkowski**](#game-17) - **1-0**
+18. [**Alan Brookbanks** - GM K. Arkell](#game-18) - **0-1**
 
 ## Individual Games
 
