@@ -103,7 +103,7 @@ nav:
     - Introduction: index.md
     - Gallery: gallery.md
     - Latest News: news.md
-    - Keith Askell Simultaneous Exhibition: KeithAskellSimultaneousExhibition.md
+    - Keith Arkell Simultaneous Exhibition: KeithAskellSimultaneousExhibition.md
     - Competitions: competitions.md
     - History: history.md
     - Tuition: tutorials.md
@@ -134,6 +134,7 @@ nav:
  
   # - minify:
   #     minify_html: true
+
 
 
 
