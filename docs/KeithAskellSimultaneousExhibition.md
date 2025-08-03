@@ -4,7 +4,28 @@
 
 
 ## Study Overview
-<iframe src="https://lichess.org/study/embed/9GRD75wl?theme=auto&bg=auto" width=600 height=397 frameborder=0></iframe>
+[📚 View Full Study on Lichess](https://lichess.org/study/9GRD75wl)
+
+## Contents
+
+1. [Game 1: Fairhurst, Frederick - GM Arkell, Keith](#game-1-fairhurst-frederick---gm-arkell-keith---1-0) - **1-0**
+2. [Game 2: Prabhagar, Sudarsan - GM Arkell, Keith](#game-2-prabhagar-sudarsan---gm-arkell-keith---0-1) - **0-1**
+3. [Game 3: Suganya, Yugan - GM Arkell, Keith](#game-3-suganya-yugan---gm-arkell-keith---0-1) - **0-1**
+4. [Game 4: Arunkumar, Kavishwar - GM Arkell, Keith](#game-4-arunkumar-kavishwar---gm-arkell-keith---0-1) - **0-1**
+5. [Game 5: Rooney, Brendan - GM Arkell, Keith](#game-5-rooney-brendan---gm-arkell-keith---0-1) - **0-1**
+6. [Game 6: Neumaier, Hubert - GM Arkell, Keith](#game-6-neumaier-hubert---gm-arkell-keith---0-1) - **0-1**
+7. [Game 7: Bell, John - GM Arkell, Keith](#game-7-bell-john---gm-arkell-keith---0-1) - **0-1**
+8. [Game 8: GM Arkell, Keith - Masseron, Claude](#game-8-gm-arkell-keith---masseron-claude---½-½) - **½-½**
+9. [Game 9: GM Arkell, Keith - McClennon, David](#game-9-gm-arkell-keith---mcclennon-david)
+10. [Game 10: Gopinathan, Nagarajun - GM Arkell, Keith](#game-10-gopinathan-nagarajun---gm-arkell-keith---0-1) - **0-1**
+11. [Game 11: GM Arkell, Keith - Fairhurst, Steve](#game-11-gm-arkell-keith---fairhurst-steve---1-0) - **1-0**
+12. [Game 12: MacLeod, Allan - GM Arkell, Keith](#game-12-macleod-allan---gm-arkell-keith---0-1) - **0-1**
+13. [Game 13: Redden, Douglas - GM Arkell, Keith](#game-13-redden-douglas---gm-arkell-keith---0-1) - **0-1**
+14. [Game 14: GM Arkell, Keith - Blair, Jimmy](#game-14-gm-arkell-keith---blair-jimmy---1-0) - **1-0**
+15. [Game 15: Neville, Andrew - GM Arkell, Keith](#game-15-neville-andrew---gm-arkell-keith---0-1) - **0-1**
+16. [Game 16: GM Arkell, Keith - Galea, Leo](#game-16-gm-arkell-keith---galea-leo---1-0) - **1-0**
+17. [Game 17: GM Arkell, Keith - Zajaczkowski, Marek](#game-17-gm-arkell-keith---zajaczkowski-marek---1-0) - **1-0**
+18. [Game 18: Brookbanks, Alan - GM Arkell, Keith](#game-18-brookbanks-alan---gm-arkell-keith---0-1) - **0-1**
 
 ## Individual Games
 
