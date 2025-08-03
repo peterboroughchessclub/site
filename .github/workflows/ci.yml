@@ -23,4 +23,4 @@ jobs:
       - run: pip install mkdocs-material mkdocs-pdf mkdocs-macros-plugin
       - run: mkdocs build
       - run: cp CNAME site/
-      - run: mkdocs gh-deploy --force --cname=$(cat CNAME)
+      - run: mkdocs gh-deploy --force
