@@ -1,7 +1,7 @@
 # Keith Arkell GM Simultaneous Exhibition Match
 ### 16 March, 2025
 
-![Keith Arkell chess simultaneous event](./img/keitharkell.jpg){ align=left }
+![Keith Arkell chess simultaneous event](./img/keitharkell.jpg)
 
 
 ## Study Overview
