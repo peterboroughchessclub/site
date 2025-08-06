@@ -38,7 +38,7 @@ We meet at the [Broadway Club, 77 Broadway, Peterborough PE1 4DA](https://www.go
 
 ## Joining the club
 
- [Contact us here](contactus.md) or alternatively, message Ben (see contact details below) and we will happy to help. Or simply turn up at the Braodway Club (formaly known as the Conservative Club) on either a Thursday or Sunday - please check the calendar above. 
+ [Contact us here](contactus.md) or alternatively, message Ben (see contact details below) and we will happy to help. Or simply turn up at the Broadway Club (formally known as the Conservative Club) on either a Thursday or Sunday - please check the calendar above. 
 
 !!! question "Contact details for Ben Rhodes, Club Secretary"
     📞 07527 551650<br>
