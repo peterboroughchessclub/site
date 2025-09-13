@@ -9,7 +9,7 @@
 
 1. [Browning, Dennis - Chedd, Neil](#game-1) - **1-0**
 2. [Walton, Dave - Fisher, Neal](#game-2) - **½-½**
-3. [Yugan Suganya - GM K. Arkell](#game-3) - **½-½**
+3. [Rooney, Brendan - Redden, Doug](#game-3) - **½-½**
 
 
 ## Individual Games
