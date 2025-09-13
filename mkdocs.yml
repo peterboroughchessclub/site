@@ -104,6 +104,7 @@ nav:
     - Gallery: gallery.md
     - Latest News: news.md
     - Keith Arkell Simultaneous Exhibition: KeithAskellSimultaneousExhibition.md
+    - Silver Queen: SilverQueen11September2025.md
     - Competitions: competitions.md
     - History: history.md
     - Tuition: tutorials.md
@@ -134,6 +135,7 @@ nav:
  
   # - minify:
   #     minify_html: true
+
 
 
 
