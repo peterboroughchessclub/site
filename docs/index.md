@@ -57,13 +57,13 @@ Visitors are welcome to attend club meetings initially without membership to get
 
     | **Membership**  | **Annual Cost** |
     |-----------|------------------|
-    | Broadway Club |  £45 ³   |
-    | Peterborough Chess Club |  £10 ²   |
-    | [ECF](https://www.englishchess.org.uk/) (optional ¹) | £18  |
+    | Broadway Club |  £30 ³   |
+    | Peterborough Chess Club |  £14 ²   |
+    | [ECF](https://www.englishchess.org.uk/) (optional ¹) | £20  |
 
-    ¹ For game rating and club match participation, ECF Bronze level membership would be required at £18 per annum 
+    ¹ For game rating and club match participation, ECF Bronze level membership would be required at £20 per annum 
 
-    ² Under 18 Junior membership is £5 / year
+    ² Under 18 Junior membership is £7 / year
 
     ³ Under 18s cannot join the Broadway Club but a parent must join instead 
 
