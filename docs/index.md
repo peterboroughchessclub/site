@@ -29,8 +29,10 @@ We meet at the [Broadway Club, 77 Broadway, Peterborough PE1 4DA](https://www.go
 
 
 ## Calendar of events
-![IMG-20260106-WA0002](https://github.com/user-attachments/assets/8e615243-9e9d-4ae4-9747-db1680e43deb)
-
+<figure markdown>
+  ![Image title](./img/IMG-20260413-WA0000.jpg){ loading=lazy  width="300" }
+  <figcaption>Upcoming Local Events</figcaption>
+</figure>
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=Y2hlc3NjbHVicGV0ZXJib3JvdWdoQGdtYWlsLmNvbQ&src=MjJiNjZjNmM1ZWE2NDdmMGMyYTc5NDUxNWExMWM4YWNiODQzOTdiOGM4MjA2NTY4MzQ4NTkzZDE1ZTVhZmExYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ODZhZTZhOWE1ZmJiMzM4NDRmNDUzNzk4Y2Y2YTY2YWQwYzY3NzA0NWJmNzk3ZjcyZTcxZmFkNGE0OTM4ZGYyMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MDc3NTdjYTdjYzRmMDg1ZmZmY2NjZTgzYzExNDRkZmU3ODgzOTY3ZWMwOTFhYTc3OWI0Y2U3MjhkY2QxYzM4OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ODRjYWY3M2RhZjRmZGRkMTQ4YzkzY2Q2MWY5ODJmNDhhYzUwOWM3YTQyYzg0OTgxYWUzNGIwNGUyMWQ1MDc1ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzVlM2Y1ZWI4NTdmZTU4NTc3ZTJiZTI3NzQ4MjkxYmZkYTRkMzdhNmQzOTFiMWZjYzY1ZDA3ZjcyZGE2MDc0ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NjFjODEzNjI3NTNlMjk5YTljZGFmODgyYmQ4OWU4MWUzNzdjODk1NjcxZjIwY2RiODBjYjZmNTUyZjYzNWYwMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23E67C73&color=%23F6BF26&color=%23F4511E&color=%237CB342&color=%23009688&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
