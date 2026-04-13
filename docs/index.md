@@ -30,7 +30,7 @@ We meet at the [Broadway Club, 77 Broadway, Peterborough PE1 4DA](https://www.go
 
 ## Calendar of events
 <figure markdown>
-  ![Image title](./img/IMG-20260413-WA0000.jpg){ loading=lazy  width="300" }
+  ![Image title](./img/IMG-20260413-WA0000.jpg){ loading=lazy  width="500" }
   <figcaption>Upcoming Local Events</figcaption>
 </figure>
 
